@@ -1,0 +1,59 @@
+.logo {
+    width: 180px;
+    height: 75px;
+}
+
+.navv {
+    margin-left: auto;
+}
+
+.butt {
+    margin-left: 10px;
+    border: solid #EEA412 2px !important;
+}
+
+ul button {
+    border: solid #EEA412 2px !important;
+}
+
+nav a {
+    color: white !important;
+    font-size: 22px;
+    text-transform: uppercase !important;
+
+}
+
+nav a:hover, .active {
+    color: #EEA412 !important;
+}
+
+.col-6 img {
+    width: 546px !important;
+    height: 213px !important;
+}
+
+.hunger, .image{
+    width: 546px;
+    height: 308px !important;
+}
+
+.help {
+    background: url(img/feeding.jpg);
+
+}
+
+.but {
+    background-color: #333333;
+    border: solid #EEA412 2px !important;
+}
+
+.coll {
+    border: white solid 3px;
+    background: inherit;
+}
+.bg-secondary{
+    background-color: #f1f1f1 !important;
+}
+.links{
+    background-color: aqua;
+}
